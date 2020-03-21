@@ -27,6 +27,7 @@ class Home extends Component {
               <button
                 key={index}
                 onClick = {(e)=> this.setArea(area, e)}
+                className={this.state.area === area? 'active': ''}
               >
                 {area}
               </button>
