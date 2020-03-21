@@ -1,4 +1,3 @@
-Initialized using instructions from https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658 and from https://www.codecademy.com/articles/react-setup-i
-Some useful links that I found
-http://michaelsoriano.com/wordpress-theme-react-part-1-setup/
-https://medium.com/@CodeCareerCoach/react-app-inside-a-wordpress-page-or-post-4c7d38181b3d
+<p>Initialized using instructions from <a href="https://blog.usejournal.com/creating-a-react-app-from-scratch-f3c693b84658">Creating a react app from scratch</a> and from <a href="https://www.codecademy.com/articles/react-setup-i">React Setup-1</a></p>
+<p>Some useful links that I found to integrate React app with WordPress are: <a href="http://michaelsoriano.com/wordpress-theme-react-part-1-setup/">WordPress theme using React</a> and <a href="https://medium.com/@CodeCareerCoach/react-app-inside-a-wordpress-page-or-post-4c7d38181b3d">React App inside a WordPress page or post</a></p>
+<p>Useful links on creating React app using create-react-app starter kit <a href="https://medium.com/@notrab/getting-started-with-create-react-app-redux-react-router-redux-thunk-d6a19259f71f">Getting started with create-react-app</a></p>
