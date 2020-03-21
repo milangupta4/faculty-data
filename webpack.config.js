@@ -2,7 +2,7 @@ const path = require("path");
 const webpack = require("webpack");
 const HTMLWebpackPlugin = require("html-webpack-plugin");
 const HTMLWebpackPluginConfig = new HTMLWebpackPlugin({
-  template: __dirname + './src/index.html',
+  // template: __dirname + './src/index.html',
   filename: 'index.html',
   inject: 'body'
 });
@@ -14,7 +14,7 @@ module.exports = {
     rules: [
       {
         test: /\.(js|jsx)$/,
-        exclude: /(node_modules|bower_components)/,
+        exclude: /(node_modules)/,
         loader: "babel-loader",
         options: { presets: ["@babel/env"] }
       },
